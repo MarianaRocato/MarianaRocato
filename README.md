@@ -4,7 +4,7 @@ Me chamo Mariana F. Rocato, mas a sou conhecida apenas por Rocato.
 
 Sou só uma analista financeiro querendo ser Dev :grin:
 
-Bacharel em Administra  de Empresas e Tecnólogo em Programação Full Stack em Js.
+Bacharel em Administra  de Empresas e Tecnólogo em Programação Full Stack em Js e Java.
 
 - 😄 Pronouns: She/her :kiss:
 
