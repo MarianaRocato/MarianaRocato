@@ -39,6 +39,6 @@ Bacharel em Administração de Empresas e Tecnólogo em Programação Full Stack
 <div>
   <a href="https://www.instagram.com/f.rocato/" target="_blank"><img aligin="center" heigth="30" width="30" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" target="_blank"></a>
   <a href = "mailto::mariana.rocato_flaibam@hotmail.com"><img aligin="center" heigth="60" width="60" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6T8OS5bwOQJCfuSePry5C5_-2pDHMN51HqQ&usqp=CAU" alvo="_blank"></a>
-  <a href="https://www.linkedin.com/in/marianarocato/" target="_blank"><img aligin="center" heigth="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/marianarocato/" target="_blank"><img aligin="center" heigth="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" target="_blank"></a>
   
 </div>
