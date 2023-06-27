@@ -1,10 +1,10 @@
 ## Hello 👋! Welcome to my Github profile.
 
-Me chamo Mariana F. Rocato, mas a sou conhecida apenas por Rocato.
+Me chamo Mariana Flaibam Rocato, para alguns sou conhecida apenas por Rocato.
 
 Sou só uma analista financeiro querendo ser Dev :grin:
 
-Bacharel em Administração de Empresas e Tecnólogo em Programação Full Stack em Js e Java.
+Bacharel em Administração de Empresas e Tecnólogo em Programação Full Stack em JavaScript e Java.
 
 - 😄 Pronouns: She/her :kiss:
 
