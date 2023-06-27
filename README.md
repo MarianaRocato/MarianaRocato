@@ -4,7 +4,7 @@ Me chamo Mariana F. Rocato, mas a sou conhecida apenas por Rocato.
 
 Sou só uma analista financeiro querendo ser Dev :grin:
 
-Bacharel em Administração de Empresas, Tecnólogo em Programação Full Stack em Js e Java e Cursando Analise e Desenvolvimento de Sistemas.
+Bacharel em Administração de Empresas e Tecnólogo em Programação Full Stack em Js e Java.
 
 - 😄 Pronouns: She/her :kiss:
 
@@ -21,14 +21,12 @@ Bacharel em Administração de Empresas, Tecnólogo em Programação Full Stack 
             <img aligin:"center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original-wordmark.svg" />
             <img aligin:"center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" />
             <img aligin:"center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
+             <img aligin:"center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+             <img aligin:"center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 
 </div>
 
-- 🌱 Estudando Programação em Java
-<div>
- <img aligin:"center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
- </div>
-
+- 🌱 Estudando Análise e Desenvolvimento de Sistemas
 
 
 - ⚡ Contatos: 
