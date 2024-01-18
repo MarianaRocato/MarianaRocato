@@ -4,7 +4,7 @@ Me chamo Mariana Flaibam Rocato, para alguns sou conhecida apenas por Rocato.
 
 Sou só uma analista financeiro querendo ser Dev :grin:
 
-Bacharel em Administração de Empresas e Tecnólogo em Programação Full Stack em JavaScript e Java. Atualmente estou em minha segunda graduação em Análise e Desenvolvimento de Sistemas
+Bacharel em Administração de Empresas e Tecnólogo em Programação Full Stack em JavaScript e Java. Atualmente estou em minha segunda graduação em Análise e Desenvolvimento de Sistemas🖥️.
 
 - 😄 Pronouns: She/her :kiss:
 
@@ -32,8 +32,6 @@ Bacharel em Administração de Empresas e Tecnólogo em Programação Full Stack
             <img aligin:"center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 
 </div>
-
-- 🌱 Estudando Análise e Desenvolvimento de Sistemas.
 
 
 - ⚡ Contatos: 
