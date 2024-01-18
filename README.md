@@ -1,12 +1,12 @@
 ## Hello 👋! Welcome to my Github profile.
 
-Me chamo Mariana Flaibam Rocato, para alguns sou conhecida apenas por Rocato.
+Me chamo Mariana Flaibam Rocato, podem me chamar apenas por Mari😄.
 
 Sou só uma analista financeiro querendo ser Dev :grin:
 
 Bacharel em Administração de Empresas e Tecnólogo em Programação Full Stack em JavaScript e Java. Atualmente estou em minha segunda graduação em Análise e Desenvolvimento de Sistemas🖥️.
 
-- 😄 Pronouns: She/her :kiss:
+- 😉 Pronouns: She/her :kiss:
 
 - 🔭 Conhecimentos nas seguintes tecnologias e ferramentas:
 
