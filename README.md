@@ -30,6 +30,7 @@ Bacharel em Administração de Empresas e Tecnólogo em Programação Full Stack
             <img aligin:"center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
             <img aligin:"center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" />
             <img aligin:"center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+            <img aligin:"center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
 
 </div>
 
